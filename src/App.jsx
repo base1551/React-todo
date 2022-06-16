@@ -16,7 +16,7 @@ export const App = () => {
             <div className="list-row">
               <li>ああああ</li>
               <button>完了</button>
-              <button>削除</button>
+              <button>削除へんこう</button>
             </div>
             <div className="list-row">
               <li>いいいいい</li>
